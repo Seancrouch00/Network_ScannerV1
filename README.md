@@ -81,7 +81,6 @@ Notes:
 - This tool is for educational purposes only. Do not use it for illegal activities.
 - Scanning networks without permission can lead to legal consequences.
 
-File Structure:
 network_scanner/
 │
 ├── scanner.py
