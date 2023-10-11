@@ -84,11 +84,10 @@ Notes:
 File Structure:
 network_scanner/
 │
-├── scanner.py                  # Main scanning script
+├── scanner.py
 ├── utilities/
-│   ├── __init__.py             # Initialize the utilities package
-│   ├── banner_grabber.py       # Contains the banner grabbing function
-│   └── stealth_scanner.py      # Contains the stealth scanning function using scapy
-│
-└── results/                    # Directory to save scanning results
-    └── scan_results.txt       # Default file to save results
+│   ├── __init__.py 
+│   ├── banner_grabber.py 
+│   └── stealth_scanner.py
+└── results/                    
+    └── scan_results.txt  
