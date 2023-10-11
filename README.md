@@ -2,6 +2,8 @@
 
 An advanced network scanner built with Python. It provides multiple features including port scanning, banner grabbing, service detection, and stealth scanning capabilities.
 
+Please note file structure would not upload at the bottom is the file structure may not be displaying properly will be resolved in future.
+
 Features:
 
 - Port Scanning: Detect open ports on target IPs.
